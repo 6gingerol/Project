@@ -1,0 +1,25 @@
+{"character roster": [{
+    "attack": 30,
+    "name": "enneagram character 1",
+    "description": "a basic enneagram character",
+    "health": 10,
+    "ability": {
+        "damage": 20,
+        "name": "Righteous Fury",
+        "description": "Deals 20 damage and heals for 10",
+        "energy cost": 15
+    },
+    "inventory": [
+        {
+            "effect": 20,
+            "name": "berry",
+            "description": "heals for 20 health"
+        },
+        {
+            "effect": 10,
+            "name": "apple",
+            "description": "heals for 10 health"
+        }
+    ],
+    "energy": 20
+}]}
